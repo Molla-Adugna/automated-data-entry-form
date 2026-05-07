@@ -37,6 +37,9 @@ The data entry form collects and organizes patient information through a user-fr
 
 ---
 
+## 🎥 Demo Video
+▶️ [Watch on YouTube](https://www.youtube.com/watch?v=7kRv0TNtYsY&t=20s)
+
 ## 🛠️ Technologies Used
 
 - Microsoft Excel (.xlsm)
@@ -79,6 +82,7 @@ For updates, support, or customization:
 Developed by: Molla Adugna  
 
 📧 Email: mollaadugna@gmail.com  
+🌐 Portfolio Wix website: https://mollaadugna.wixsite.com/molla-adugna-1
 
 ## 📍 Location: Dessie, Ethiopia
 
