@@ -1,4 +1,5 @@
-# 🏥 Bati General Hospital - Automated Data Entry Form (Excel)
+# 🏥 Automated Data Entry Form (Excel)  
+![Automated Data Entry Form](https://github.com/Molla-Adugna/automated-data-entry-form/blob/main/Automated%20Data%20Entry%20Form%20Thumbnail%20Updated.jpg?raw=true)
 
 This project is an **automated patient data entry system** designed in **Microsoft Excel** using **VBA Macros**. It streamlines the registration process for patients at **Bati General Hospital**, reducing manual workload and improving accuracy.
 
@@ -44,11 +45,15 @@ The data entry form collects and organizes patient information through a user-fr
 
 ---
 
-## 📁 File Structure
-📂 Bati-General Hospital Form: [This is the main project folder](https://github.com/Molla-Adugna/Automated-Data-Entry-Form/blob/main/Bati_General_Hospital_Form.xlsm)   
-📄 Patient_Entry_Form (Screenshoot):[This is screenshoot of the Data Entry Form (with Macros enabled)](https://github.com/Molla-Adugna/Automated-Data-Entry-Form/blob/main/Screenshot%20(364).png)  
-📄 All_Patients_Detail_information (Screenshoot):  [This is All patients information sheet](https://github.com/Molla-Adugna/Automated-Data-Entry-Form/blob/main/Screenshot%20(366).png)  
-📑 README.md: [This is the README.md](https://github.com/Molla-Adugna/Automated-Data-Entry-Form)       
+## 📂 File Structure
+```  
+Automated-Data-Entry-Form/
+│── README.md              # Project documentation
+│── form_template.xlsx     # Input form for data entry
+│── automation_script.py   # Visual basic automation logic
+│── processed_data.xlsx    # Output dataset  
+```  
+  
 
 
 ---
